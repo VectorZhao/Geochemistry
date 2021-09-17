@@ -2,7 +2,7 @@
 """
 Created on Sat Mar  7 20:54:49 2020
 
-@author: manli
+@author: vector
 """
 
 import matplotlib.pyplot as plt
